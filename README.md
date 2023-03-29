@@ -87,5 +87,9 @@ yapılan iş: pokemon json okundu ve slice array döndürüyor slice ile arrayı
 ders 4 bitti
 youtube.com/watch?v=ekIDdZE7YjM&list=PLNqp92_EXZBKa1U7JbgUwBnDk3XzYDvXe&index=4
 yapılan iş: componentlerin oluşturulması component basitçe bir fonksiyondur ve kendine has propları vardır. Ancak biz burada "yarn add prop-types" komutu
-ile componentler daha farklı kullanacağız.
+ile componentler daha farklı kullanacağız.Appjs içinde oluşturduğumuz componente geçirdiğimiz nesnenin özelliklerini prop-types ile belirliyoruz.
+
+ders 5 bitti
+https://www.youtube.com/watch?v=-urz6Sh7RE8&list=PLNqp92_EXZBKa1U7JbgUwBnDk3XzYDvXe&index=5
+yapılan iş: state ve events işleniyor. ilk iş olarak sayfaya bir arama alanı ekliyoruz ve oradaki değişiklikleri state bilgisinde tutacağız.
 
