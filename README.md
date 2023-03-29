@@ -84,3 +84,8 @@ gereken json dosyası https://gist.githubusercontent.com/jherr/23ae3f96cf5ac341c
 https://www.youtube.com/watch?v=MJaGti42c5c&list=PLNqp92_EXZBKa1U7JbgUwBnDk3XzYDvXe&index=3
 yapılan iş: pokemon json okundu ve slice array döndürüyor slice ile arrayın belirli bir sayısı okunarak liste döndürüldü
 
+ders 4 bitti
+youtube.com/watch?v=ekIDdZE7YjM&list=PLNqp92_EXZBKa1U7JbgUwBnDk3XzYDvXe&index=4
+yapılan iş: componentlerin oluşturulması component basitçe bir fonksiyondur ve kendine has propları vardır. Ancak biz burada "yarn add prop-types" komutu
+ile componentler daha farklı kullanacağız.
+

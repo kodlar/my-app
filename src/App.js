@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import PropTypes from "prop-types"
 import pokemon from "./pokemon.json"
 
 const PokemonRow = ({pokemon}) => (
@@ -8,6 +9,15 @@ const PokemonRow = ({pokemon}) => (
             <td>{pokemon.type.join(', ')}</td>
           </tr> 
 )
+PokemonRow.propTypes = {
+  pokemon : PropTypes.shape({
+    name : PropTypes.shape({
+      english:PropTypes.string,
+    }),
+    type : PropTypes.arrayOf(PropTypes.string)
+  })
+}
+
 
 function App() {
   return (
